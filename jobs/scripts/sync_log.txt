@@ -1,0 +1,2 @@
+2016/04/11 02:30:12 - jnjs3sync.sh - Running on platform : Linux
+2016/04/11 02:30:12 - jnjs3sync.sh - Executing command : /home/ubuntu/data-integration/scripts/jnjs3sync.sh

@@ -1,0 +1,151 @@
+2016/03/15 13:55:48 - Kitchen - Logging is at level : Basic logging
+2016/03/15 13:55:48 - Kitchen - Start of run.
+2016/03/15 13:55:49 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:55 - ef-copy-files - Start of job execution
+2016/03/15 13:55:55 - ef-copy-files - Starting entry [Transformation]
+2016/03/15 13:55:55 - Transformation - Loading transformation from XML file [file:///home/ubuntu/data-integration/ts-kettle-jobs/ef-copy-files-transformation.ktr]
+2016/03/15 13:55:55 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:55 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:56 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:56 - ef-copy-files-transformation - Dispatching started for transformation [ef-copy-files-transformation]
+2016/03/15 13:55:56 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:56 - Table input.0 - Finished reading query, closing connection.
+2016/03/15 13:55:56 - Table input.0 - Finished processing (I=121, O=0, R=0, W=121, U=0, E=0)
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:57 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:58 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:58 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:58 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:58 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:58 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:58 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:55:59 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:00 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:01 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:02 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:03 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:03 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:03 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:03 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:03 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:03 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:03 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:03 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:04 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:05 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:06 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:06 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:06 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:06 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:06 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:06 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:06 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:07 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:08 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - Get File Names.0 - Finished processing (I=0, O=0, R=121, W=2, U=0, E=0)
+2016/03/15 13:56:09 - Select values.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2016/03/15 13:56:09 - Add constants.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2016/03/15 13:56:09 - Calculator.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2016/03/15 13:56:09 - Select values 2.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2016/03/15 13:56:09 - Copy rows to result.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2016/03/15 13:56:09 - ef-copy-files - Starting entry [Copy Files]
+2016/03/15 13:56:09 - Copy Files - Starting ...
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:09 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:10 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:10 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+2016/03/15 13:56:10 - ef-copy-files - Finished job entry [Copy Files] (result=[true])
+2016/03/15 13:56:10 - ef-copy-files - Finished job entry [Transformation] (result=[true])
+2016/03/15 13:56:10 - ef-copy-files - Job execution finished
+2016/03/15 13:56:10 - Kitchen - Finished!
+2016/03/15 13:56:10 - Kitchen - Start=2016/03/15 13:55:48.078, Stop=2016/03/15 13:56:10.379
+2016/03/15 13:56:10 - Kitchen - Processing ended after 22 seconds.

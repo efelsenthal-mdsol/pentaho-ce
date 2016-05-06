@@ -1,0 +1,1 @@
+/home/ubuntu/data-integration/kitchen.sh -file=/home/ubuntu/data-integration/ts-kettle-jobs/ef_s3_sync_job.kjb  -logfile=/home/ubuntu/data-integration/logs/$(date +%s)ef-copy-files.log

@@ -1,0 +1,3 @@
+copy: s3://subject-data/sandbox/0251dfcb-9fbb-4e94-908c-dcfd967024d4/garmin_connect/sleep/2016-02-08.json to s3://ef-test-drop/0251dfcb-9fbb-4e94-908c-dcfd967024d4/garmin_connect/sleep/2016-02-08.json
+Completed 1 of 3 part(s) with 2 file(s) remainingcopy: s3://subject-data/sandbox/0251dfcb-9fbb-4e94-908c-dcfd967024d4/aggregate/2016-02-08.json to s3://ef-test-drop/0251dfcb-9fbb-4e94-908c-dcfd967024d4/aggregate/2016-02-08.json
+Completed 2 of 3 part(s) with 1 file(s) remainingcopy: s3://subject-data/sandbox/0251dfcb-9fbb-4e94-908c-dcfd967024d4/garmin_connect/sleep/2016-02-05.json to s3://ef-test-drop/0251dfcb-9fbb-4e94-908c-dcfd967024d4/garmin_connect/sleep/2016-02-05.json
